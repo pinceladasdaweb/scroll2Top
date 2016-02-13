@@ -8,6 +8,10 @@
 $ git clone git@github.com:pinceladasdaweb/scroll2Top.git
 ```
 
+## Demo
+
+View demo [here](http://pinceladasdaweb.com.br/blog/uploads/scroll2Top/)
+
 ## How to use?
 
 scroll2Top is a [Vanilla JS](http://vanilla-js.com/) plugin with no dependencies. Include the [`scroll2Top.min.js`](build/scroll2Top.min.js) before your ```</body>``` tag:
